@@ -19,9 +19,9 @@
 
 
 <div>
-<p style="float: left;">&nbsp;<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=ghostybin&show_icons=true&locale=en" alt="ghostybin" /></p>
+<p style="float: left; max-width: 45vw;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostybin&show_icons=true&locale=en" alt="ghostybin" /></p>
 
-<p style="float: left;"><img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostybin&" alt="ghostybin" /></p>
+<p style="float: left; max-width: 45vw;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostybin&" alt="ghostybin" /></p>
   
   </div>
 
