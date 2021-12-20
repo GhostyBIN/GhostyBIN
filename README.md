@@ -20,6 +20,10 @@
 
 <div style="width: 100vw; margin: auto;">
   <div style="display: inline-block; width: 45vw;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostyBIN&theme=blue-green">
+  </div>
+  
+  <div style="display: inline-block; width: 45vw;">
     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ghostybin&show_icons=true&locale=en" alt="ghostybin" /></p>
   </div>
   
