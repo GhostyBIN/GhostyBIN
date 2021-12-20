@@ -23,14 +23,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ghostybin&show_icons=true&locale=en" alt="ghostybin" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostybin&" alt="ghostybin" />
 
-<div width="100vw" margin="auto">
-  
-  <div display="inline-block" width="45vw">
-    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ghostybin&show_icons=true&locale=en" alt="ghostybin" /></p>
-  </div>
-  
-  <div display="inline-block" width="45vw">
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostybin&" alt="ghostybin" /></p>
-  </div>
-</div>
-
