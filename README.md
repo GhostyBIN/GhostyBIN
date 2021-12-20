@@ -19,10 +19,10 @@
 
 
 <div>
-<p style="float: left; max-width: 45vw;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostybin&show_icons=true&locale=en" alt="ghostybin" /></p>
+<div style="float: left;"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostybin&show_icons=true&locale=en" alt="ghostybin" /></p></div>
 
-<p style="float: left; max-width: 45vw;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostybin&" alt="ghostybin" /></p>
-  
+<div style="float: left;"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostybin&" alt="ghostybin" /></p>
+  </div>
   </div>
 
 
