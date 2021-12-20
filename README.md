@@ -3,7 +3,6 @@
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ghostybin&label=Profile%20views&color=0e75b6&style=flat" alt="ghostybin" />
-    <a href="https://github.com/GhostyBIN"><img src="https://img.shields.io/github/followers/GhostyBIN.svg?style=social&label=Follow&maxAge=2592000"></a>
     <img src="https://img.shields.io/github/last-commit/GhostyBin/GhostyBin">
   </div>
   
