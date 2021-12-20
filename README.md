@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghosty</h1>
 <h3 align="center">Just a dev.</h3>
 
-  <div style="align: center;">
+  <div style="align: left;">
     <img src="https://komarev.com/ghpvc/?username=ghostybin&label=Profile%20views&color=0e75b6&style=flat" alt="ghostybin" />
     <img src="https://img.shields.io/github/followers/GhostyBIN.svg?style=social&label=Follow&maxAge=2592000">
   </div>
