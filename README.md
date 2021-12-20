@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **anything and everything i can.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GhostyBIN?tab=repositories](https://github.com/GhostyBIN?tab=repositories)
+- 👨‍💻 All of my projects are available [HERE](https://github.com/GhostyBIN?tab=repositories)
 
 - 💬 Ask me about **anything.**
 
