@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghosty</h1>
 <h3 align="center">Just a dev.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostybin&label=Profile%20views&color=0e75b6&style=flat" alt="ghostybin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ghostybin&label=Profile%20views&color=0e75b6&style=flat" alt="ghostybin" /> </p>
 
 - 🔭 I’m currently working on **The Watcher**
 
