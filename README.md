@@ -6,7 +6,7 @@
     <a href="https://github.com/GhostyBIN"><img src="https://img.shields.io/github/followers/GhostyBIN.svg?style=social&label=Follow&maxAge=2592000"></a>
   </div>
   
-  <img src="https://img.shields.io/github/last-commit/GhostyBin/GhostyBin?style=for-the-badge">
+  <img align="center" src="https://img.shields.io/github/last-commit/GhostyBin/GhostyBin?style=for-the-badge">
 
 - 🔭 I’m currently working on **The Watcher**
 
