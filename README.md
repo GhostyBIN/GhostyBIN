@@ -3,7 +3,7 @@
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ghostybin&label=Profile%20views&color=0e75b6&style=flat" alt="ghostybin" />
-    <img src="https://img.shields.io/github/followers/GhostyBIN.svg?style=social&label=Follow&maxAge=2592000">
+    <a href="https://github.com/GhostyBIN"><img src="https://img.shields.io/github/followers/GhostyBIN.svg?style=social&label=Follow&maxAge=2592000"></a>
   </div>
 
 - 🔭 I’m currently working on **The Watcher**
